@@ -1,0 +1,2 @@
+rand_walker
+-DCATKIN_DEVEL_PREFIX=/home/artur/UM/inesctec/random_walker/devel -DCMAKE_INSTALL_PREFIX=/home/artur/UM/inesctec/random_walker/install -G Unix Makefiles

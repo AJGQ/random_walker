@@ -1,0 +1,8 @@
+prefix=/home/artur/UM/inesctec/random_walker/devel
+
+Name: rand_walker
+Description: Description of rand_walker
+Version: 0.0.0
+Cflags: -I/home/artur/UM/inesctec/random_walker/devel/include -I/home/artur/UM/inesctec/random_walker/src/rand_walker/include
+Libs: -L${prefix}/lib -lrand_walker
+Requires: message_runtime geometry_msgs roscpp std_msgs
